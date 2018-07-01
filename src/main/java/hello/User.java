@@ -33,7 +33,9 @@ public class User {
 	}
 
 	public String getEmail() {
+		email ="abc";
 		return email;
+		
 	}
 
 	public void setEmail(String email) {
@@ -41,5 +43,6 @@ public class User {
 	}
     
 	// thin edit
+	// ky edi
 }
 

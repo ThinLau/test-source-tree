@@ -39,10 +39,5 @@ public class User {
 		this.email = email;
 	}
     
-
-	/**
-		thinlh add new comment
-	*/
-    public String fullName;
 }
 

@@ -42,7 +42,6 @@ public class User {
 		this.email = email;
 	}
     
-	// thin edit
 	// ky edi
 }
 

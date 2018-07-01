@@ -33,16 +33,15 @@ public class User {
 	}
 
 	public String getEmail() {
-		email ="abc";
 		return email;
 		
 	}
 
+ //emeeeee
 	public void setEmail(String email) {
 		this.email = email;
 	}
     
 	// thin edit
-	// ky edi
 }
 

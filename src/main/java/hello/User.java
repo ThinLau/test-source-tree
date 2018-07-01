@@ -32,12 +32,15 @@ public class User {
 	}
 
 	public String getEmail() {
+		email ="abc";
 		return email;
+		
 	}
 
 	public void setEmail(String email) {
 		this.email = email;
 	}
     
+	// ky edi
 }
 

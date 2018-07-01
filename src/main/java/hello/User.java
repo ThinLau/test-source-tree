@@ -29,6 +29,7 @@ public class User {
 
 	public void setName(String name) {
 		this.name = name;
+		new Object();
 	}
 
 	public String getEmail() {
@@ -39,5 +40,6 @@ public class User {
 		this.email = email;
 	}
     
+	// thin edit
 }
 

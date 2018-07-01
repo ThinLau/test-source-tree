@@ -33,15 +33,15 @@ public class User {
 	}
 
 	public String getEmail() {
+		email ="abc@gmai.com";
 		return email;
 		
 	}
 
- //emeeeee
+ //set email method
 	public void setEmail(String email) {
 		this.email = email;
 	}
     
-	// thin edit
 }
 
